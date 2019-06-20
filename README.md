@@ -12,4 +12,4 @@ This repo includes original dumped firmware blobs (which have the serial number 
 
 Building this project results in a single binary with a specific purpose. It takes in two binary blobs, one from each of the two flash ICs on the LP-2844 mainboard, and outputs a combined binary blob of both the two flash ICs, a copy of that blob with the firmware update applied, and a second set of binary blobs meant to be written back to each flash IC.
 
-For more information on this project, see [https://dchhv.org](https://dchhv.org)
+For more information on this project, see [https://dchhv.org/project/2019/01/27/ups2844convert.html](https://dchhv.org/project/2019/01/27/ups2844convert.html)
