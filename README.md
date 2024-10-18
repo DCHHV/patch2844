@@ -16,4 +16,6 @@ Building this project results in a single binary with a specific purpose. It tak
 ./patchzebra even_byte.bin odd_byte.bin update-file.prg output
 ```
 
+In this repository, `ups2844-u21.bin` is the even byte, `ups2844-u6.bin` is the odd byte, and `2844_V4_70_1A_STD.prg` is the update file.
+
 For more information on this project, see [https://dchhv.org/project/2019/01/27/ups2844convert.html](https://dchhv.org/project/2019/01/27/ups2844convert.html)
